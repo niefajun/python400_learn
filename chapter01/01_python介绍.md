@@ -27,4 +27,4 @@ python是面向对象的动态编程语言，支持函数式编程。继承了�
 
 2. python2的编码问题很烦人
 
-> 在python2当中默认的编码是ascill码，而在python3当中unicode码，这就是为什么两个版本不能相互兼容的原因。
+> 在python2当中默认的编码是ascii码，而在python3当中unicode码，这就是为什么两个版本不能相互兼容的原因。
